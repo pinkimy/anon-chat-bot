@@ -24,6 +24,8 @@ An anonymous Telegram bot that allows users to send messages (text and photos) t
 
 ## 📁 Project structure
 
+```
+#bash
 .
 ├── bot.py # The main logic of the Telegram bot
 ├── utils/
@@ -31,6 +33,8 @@ An anonymous Telegram bot that allows users to send messages (text and photos) t
 ├── .env # Token and administrator password
 ├── requirements.txt # Dependencies
 └── README.md # Documentation (you are here)
+
+```
 
 ---
 
