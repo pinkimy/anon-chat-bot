@@ -26,13 +26,14 @@ An anonymous Telegram bot that allows users to send messages (text and photos) t
 
 ```
 .
-├── bot/
-│└── main.py # The main logic of the Telegram bot
-│└──utils/
-│ └── db.py # Working with SQLite through SQLAlchemy#
-├── .env # Token and administrator password
-├── requirements.txt # Dependencies
-└── README.md # Documentation (you are here)
+├── 📁 bot/
+│ ├── 📄main.py # The main logic of the Telegram bot
+│ └── 📁 utils/
+│ └── 📄db.py # Working with SQLite through SQLAlchemy#
+│
+├── 📄 .env # Token and administrator password
+├── 📄 requirements.txt # Dependencies
+└── 📄 README.md # Documentation (you are here)
 
 ```
 
